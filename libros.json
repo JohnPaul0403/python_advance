@@ -1,0 +1,34 @@
+{
+    "libros": [
+        {
+            "isbn": "00021332",
+            "Titulo": "olo",
+            "Autor": "xd"
+        },
+        {
+            "isbn": "000022938847",
+            "Titulo": "oli",
+            "Autor": "2xd"
+        },
+        {
+            "isbn": "0003999487766",
+            "Titulo": "Nik",
+            "Autor": "ees"
+        },
+        {
+            "isbn": "055",
+            "Titulo": "Habitos",
+            "Autor": "John PAul"
+        },
+        {
+            "isbn": "0056",
+            "Titulo": "Habitos",
+            "Autor": "John"
+        },
+        {
+            "isbn": "0003",
+            "Titulo": "Python for everyone",
+            "Autor": "Polly"
+        }
+    ]
+}
